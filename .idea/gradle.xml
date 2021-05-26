@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Flashcards/task" />
+            <option value="$PROJECT_DIR$/Topics/ArrayList/Concat positive numbers" />
+            <option value="$PROJECT_DIR$/Topics/ArrayList/Find the nearest number" />
+            <option value="$PROJECT_DIR$/Topics/ArrayList/Output the list's elements" />
+            <option value="$PROJECT_DIR$/Topics/ArrayList/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Command-line arguments/Basic calculator" />
+            <option value="$PROJECT_DIR$/Topics/Command-line arguments/Get the game mode" />
+            <option value="$PROJECT_DIR$/Topics/Command-line arguments/Parameters and their values" />
+            <option value="$PROJECT_DIR$/Topics/Command-line arguments/The index of an argument" />
+            <option value="$PROJECT_DIR$/Topics/Command-line arguments/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Constructor/Account and its owner" />
+            <option value="$PROJECT_DIR$/Topics/Constructor/Geometric cube" />
+            <option value="$PROJECT_DIR$/Topics/Constructor/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Constructor/User" />
+            <option value="$PROJECT_DIR$/Topics/Defining classes/Accounts" />
+            <option value="$PROJECT_DIR$/Topics/Defining classes/Books" />
+            <option value="$PROJECT_DIR$/Topics/Defining classes/Inner boxes" />
+            <option value="$PROJECT_DIR$/Topics/Defining classes/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Errors in programs/Fix compile-time errors" />
+            <option value="$PROJECT_DIR$/Topics/Errors in programs/Fix the program" />
+            <option value="$PROJECT_DIR$/Topics/Errors in programs/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Errors in programs/What's wrong?" />
+            <option value="$PROJECT_DIR$/Topics/Files/Are siblings?" />
+            <option value="$PROJECT_DIR$/Topics/Files/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Generics and Object/Boxes are not just objects_" />
+            <option value="$PROJECT_DIR$/Topics/Generics and Object/Correct the usage of non-generic class" />
+            <option value="$PROJECT_DIR$/Topics/Generics and Object/Initialize an object of a generic class" />
+            <option value="$PROJECT_DIR$/Topics/Generics and Object/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/Car" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/Complex numbers" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/Simulating a clock" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Interface/Account Service" />
+            <option value="$PROJECT_DIR$/Topics/Interface/Area of a circle" />
+            <option value="$PROJECT_DIR$/Topics/Interface/Compact strings with AsciiCharSequence" />
+            <option value="$PROJECT_DIR$/Topics/Interface/Mutable geometric shapes" />
+            <option value="$PROJECT_DIR$/Topics/Interface/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Project constants and methods" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Time constants" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Creating a set" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Output elements" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Removing elements" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Spell checker" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Strict superset" />
+            <option value="$PROJECT_DIR$/Topics/The Set interface/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/Squares of natural numbers" />
+            <option value="$PROJECT_DIR$/Topics/The while and do-while loops/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

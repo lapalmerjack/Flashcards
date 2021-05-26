@@ -1,0 +1,6 @@
+inu:dog:1
+ie:house:1
+iie:no:0
+tabemono:food:0
+neko:cat:1
+nomimono:drink:0

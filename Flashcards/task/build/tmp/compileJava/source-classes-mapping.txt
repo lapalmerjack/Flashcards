@@ -1,0 +1,8 @@
+flashcards/CardMechanics.java
+ flashcards.CardMechanics
+flashcards/CardFiles.java
+ flashcards.CardFiles
+flashcards/UserInterface.java
+ flashcards.UserInterface
+flashcards/Main.java
+ flashcards.Main
